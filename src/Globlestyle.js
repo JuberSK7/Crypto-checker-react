@@ -1,6 +1,5 @@
 import {createGlobalStyle} from "styled-components";
 
-
 export const GlobalStyle = createGlobalStyle`
 
 * {
@@ -11,5 +10,4 @@ export const GlobalStyle = createGlobalStyle`
     font-family: 'Lato', sans-serif;
     color: #fff;
   }
-
 `
